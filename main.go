@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(convert("AB", 2))
+	fmt.Println(reverse(-1534236469))
 }
